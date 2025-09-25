@@ -12,17 +12,19 @@ import br.com.fiap.apisecurity.model.User;
 import br.com.fiap.apisecurity.repository.UserRepository;
 
 @RestController
-@RequestMapping
+@RequestMapping("/users")
 public class UserController {
 
     private final UserRepository userRepository;
+
     @Autowired
     public UserController(UserRepository userRepository) {
         this.userRepository = userRepository;
     }
 
     @GetMapping
-    public ResponseEntity<List>
-
-
+    public ResponseEntity<List<User>> getAllUsers() {
+        List<User> users = userRepository.findAll();
+        return ResponseEntity.ok(users);
+    }
 }

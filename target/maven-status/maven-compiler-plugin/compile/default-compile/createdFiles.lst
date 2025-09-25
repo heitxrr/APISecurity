@@ -1,0 +1,9 @@
+br\com\fiap\apisecurity\model\UserRole.class
+br\com\fiap\apisecurity\ApiSecurityApplication.class
+br\com\fiap\apisecurity\dto\RegisterDTO.class
+br\com\fiap\apisecurity\controller\UserController.class
+br\com\fiap\apisecurity\security\SecurityConfiguration.class
+br\com\fiap\apisecurity\repository\UserRepository.class
+br\com\fiap\apisecurity\model\User.class
+br\com\fiap\apisecurity\controller\AuthController.class
+br\com\fiap\apisecurity\dto\AuthDTO.class

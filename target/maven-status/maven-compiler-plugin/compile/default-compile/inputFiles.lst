@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\ApiSecurityApplication.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\controller\AuthController.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\controller\UserController.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\dto\AuthDTO.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\dto\RegisterDTO.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\model\User.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\model\UserRole.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\repository\UserRepository.java
+C:\Users\User\Desktop\API-Security-main-master\src\main\java\br\com\fiap\apisecurity\security\SecurityConfiguration.java
