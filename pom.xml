@@ -83,8 +83,8 @@
                 <artifactId>azure-webapp-maven-plugin</artifactId>
                 <version>2.11.0</version>
                 <configuration>
-                    <resourceGroup>CheckpointDevOps</resourceGroup>
-                    <appName>CheckpointDevOps2</appName>
+                    <resourceGroup>CPDevOps</resourceGroup>
+                    <appName>CPDevOps</appName>
                     <pricingTier>F1</pricingTier>
                     <region>eastus</region>
                 </configuration>
