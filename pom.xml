@@ -85,7 +85,7 @@
                 <configuration>
                     <resourceGroup>CheckpointDevOps</resourceGroup>
                     <appName>CheckpointDevOps2</appName>
-                    <pricingTier>B1</pricingTier>
+                    <pricingTier>F1</pricingTier>
                     <region>eastus</region>
                 </configuration>
             </plugin>
