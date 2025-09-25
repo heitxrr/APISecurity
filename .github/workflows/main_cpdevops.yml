@@ -50,4 +50,4 @@ jobs:
           app-name: 'CPDevOps'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FAB2D43489541D3BFC22F955AF9BFD7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0F0EC3B9AC5440D97B94AE4F5AB0DAE }}
